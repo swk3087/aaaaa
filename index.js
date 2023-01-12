@@ -1,4 +1,4 @@
-alert("Your password should not contain spaces ");
+
 
 var encrypt=()=>{
 
@@ -46,7 +46,7 @@ var decrypt=()=>{
 
    
 
-   if(document.getElementById('encrypted').value!="Enter your password !"){
+   if(document.getElementById('encrypted').value!="암호"){
 
     var encrypt=document.getElementById('encrypted').value;
 
