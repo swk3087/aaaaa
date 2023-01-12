@@ -1,0 +1,55 @@
+body{
+
+    display:grid;
+
+    place-content: center;
+
+    background-color:#252525;
+
+}
+
+#password,#encrypted,#decrypt{
+
+    outline:none;
+
+    border: none;
+
+    border-bottom: 2px solid blueviolet;
+
+    background: transparent;
+
+    color:whitesmoke;
+
+}
+
+button{
+
+    border: none;
+
+    width:100px;
+
+    height:40px;
+
+    border-radius: 30px;
+
+    background-color:mediumseagreen;
+
+    max-width:150px;
+
+}
+
+.outline{
+
+    position:absolute;
+
+    top:200px;
+
+    left:25%;
+
+}
+
+h2{
+
+    color:crimson;
+
+}
